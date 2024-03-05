@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript">
+function mssge(){
+alert("hello haseeb");
+}
+</script>
+</head>
+<body>
+
+<p>Welcome to home</p>
+<form>
+<input type="button" value="click" onclick="mssge()"/>
+
+</form>
+</body>
+</html>
